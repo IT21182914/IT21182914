@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dilan Shanuka IT21182914</h1>
-<h3 align="center">A passionate developer from Sri Lanka</h3>
-
+<h3 align="center">Developer From Sri Lanka</h3>
 <p align="center"> <img width="50%" src="https://thumbs.dreamstime.com/b/man-software-engineer-concept-design-optimization-responsive-developer-solutions-64380259.jpg" alt="it21182914" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dilanshanuka1" target="blank"><img src="https://img.shields.io/twitter/follow/dilanshanuka1?logo=twitter&style=for-the-badge" alt="dilanshanuka1" /></a> </p>
