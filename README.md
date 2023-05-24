@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dilanshanuka1" target="blank"><img src="https://img.shields.io/twitter/follow/dilanshanuka1?logo=twitter&style=for-the-badge" alt="dilanshanuka1" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack,Kotlin**
+- 🌱 I’m currently learning **BSc (Hons) in Information Technology Specialising in Software Engineering Degree**
 
 - 📫 How to reach me **Dilanshanuka999@gmail.com**
 
