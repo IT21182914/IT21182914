@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dilan Shanuka</h1>
 <h3 align="center">A developer from Sri Lanka 🇱🇰</h3>
+<br>
+<center>
+  <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p9jid54a2lg7vsyxbk2hx5mp5xku6u95bv3kcewq&ep=v1_gifs_search&rid=giphy.gif&ct=g" /> 
 
-<center><img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p9jid54a2lg7vsyxbk2hx5mp5xku6u95bv3kcewq&ep=v1_gifs_search&rid=giphy.gif&ct=g" /> </center>
-
+</center>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21182914&label=Profile%20views&color=0e75b6&style=flat" alt="it21182914" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21182914" alt="it21182914" /></a> </p>
