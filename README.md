@@ -3,6 +3,9 @@
 <h3 align="center">Developer From Sri Lanka</h3>
 <p align="center"> <img width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="it21182914" /> </p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IT21182914&label=Profile%20views&color=0e75b6&style=flat" alt="it21182914" /> </p>
+
 <p align="left"> <a href="https://twitter.com/dilanshanuka1" target="blank"><img src="https://img.shields.io/twitter/follow/dilanshanuka1?logo=twitter&style=for-the-badge" alt="dilanshanuka1" /></a> </p>
 
 - 🌱 I’m currently reading **BSc (Hons) in Information Technology Specialising in Software Engineering Degree**
