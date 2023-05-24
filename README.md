@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Dilanshanuka999@gmail.com**
 
-- 🎯 Focused_On Inventions 🔥
+- 🎯 Focused On Inventions
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
