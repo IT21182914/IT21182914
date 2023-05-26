@@ -27,6 +27,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IT21182914&theme=default)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IT21182914&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IT21182914&theme=default)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iT21182914&" alt="it21182914" /></p>
