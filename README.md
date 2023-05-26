@@ -29,4 +29,13 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IT21182914&theme=default)
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IT21182914&theme=default&utcOffset=8)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IT21182914&theme=default)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IT21182914&theme=default)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iT21182914&" alt="it21182914" /></p>
