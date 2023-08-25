@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dilan Shanuka IT21182914</h1>
-<h3 align="center">Developer From Sri Lanka</h3>
+<h3 align="center">Passionate Developer From Sri Lanka</h3>
 <p align="center"> <img width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="it21182914" /> </p>
 
 
