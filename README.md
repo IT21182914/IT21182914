@@ -39,21 +39,21 @@
   <!-- Your existing icons go here -->
 
   <!-- New Tech Stack section -->
-  <br/>
-  <b>💻 Tech Stack:</b>
+  <br/><br/>
+  <b>💻 Tech Stack:</b><br/>
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   <!-- Add other tech stack badges -->
 
   <!-- GitHub Stats section -->
-  <br/>
-  <b>📊 GitHub Stats:</b>
+  <br/><br/>
+  <b>📊 GitHub Stats:</b><br/>
   ![](https://github-readme-stats.vercel.app/api?username=IT21182914&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=IT21182914&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21182914&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
   <!-- Random Dev Quote -->
-  <br/>
-  <b>✍️ Random Dev Quote:</b>
+  <br/><br/>
+  <b>✍️ Random Dev Quote:</b><br/>
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </p>
