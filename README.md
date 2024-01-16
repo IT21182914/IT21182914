@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Dilan Shanuka</h1>
-<h3 align="center">Passionate Developer From Sri Lanka</h3>
+<h3 align="center">Passionate Developer from Sri Lanka</h3>
 
 <p align="center"> 
   <img width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Dilan Shanuka" />
@@ -43,12 +43,26 @@
 </p>
 
 <!-- GitHub Profile Summary Cards -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IT21182914&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IT21182914&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IT21182914&theme=default&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IT21182914&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IT21182914&theme=default)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IT21182914&theme=default" alt="Profile Details" />
+</p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iT21182914&" alt="GitHub Streak" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IT21182914&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IT21182914&theme=default&utcOffset=8" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IT21182914&theme=default" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IT21182914&theme=default" alt="Repos per Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iT21182914&" alt="GitHub Streak" />
 </p>
