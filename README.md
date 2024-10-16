@@ -21,7 +21,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter** and **.NET**
+- 🌱 I’m currently learning **Flutter** and **C# .NET**
 
 - 📫 Reach me at **Dilanshanuka999@gmail.com**
 
