@@ -21,7 +21,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter** and **Spring Boot**
+- 🌱 I’m currently learning **Flutter** and **.NET**
 
 - 📫 Reach me at **Dilanshanuka999@gmail.com**
 
