@@ -47,7 +47,6 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/></a> </p>
 </p>
 
-<!-- GitHub Profile Summary Cards -->
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IT21182914&theme=default" alt="Profile Details" />
 </p>
