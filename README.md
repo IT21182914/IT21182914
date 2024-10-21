@@ -20,14 +20,14 @@
 </p>
 
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🌱 I’m currently learning **Flutter** and **C# .NET**
 
 - 📫 Reach me at **Dilanshanuka999@gmail.com**
 
 - 🎯 Focused on building innovative solutions
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 <p align="left">
   <a href="https://twitter.com/dilanshanuka1" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
