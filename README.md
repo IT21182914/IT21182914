@@ -21,7 +21,7 @@
 
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **Flutter** and **C# .NET**
+- 🌱 I’m currently learning **TypeScript** and **NestJS**
 
 - 📫 Reach me at **Dilanshanuka999@gmail.com**
 
