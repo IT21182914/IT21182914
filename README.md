@@ -104,8 +104,9 @@ const dilan = {
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" style="margin: 5px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Claude_AI_logo.svg" alt="OpenAI" height="50" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="50" alt="OpenAI" style="margin: 5px;" />
 <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" height="50" alt="GitHub Copilot" style="margin: 5px; border-radius: 10px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Claude_AI_logo.svg" height="50" alt="Claude" style="margin: 5px;" />
 
 </div>
 
