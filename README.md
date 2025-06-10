@@ -48,6 +48,9 @@ interface Developer {
   passions: string[];
   currentFocus: string[];
   techPhilosophy: string;
+  mindset: string;
+  funFact1: string;
+  funFact2: string;
 }
 
 const DilanShanuka: Developer = {
