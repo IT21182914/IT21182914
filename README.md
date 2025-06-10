@@ -3,7 +3,7 @@
 # 🔥 **Dilan Shanuka** 
 ### `AI-Powered Full-Stack Developer` • `DevOps Enthusiast` • `Cloud Native Developer` • `Tech Enthusiast`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🤖+AI-Enhanced+Tech+Enthusiast;⚡+Next.js+%7C+NestJS+%7C+Prisma+Expert;☁️+Cloud+Native+Developer;🚀+DevOps+%26+Innovation+Enthusiast;💡+Building+Tomorrow's+Tech+Today" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Tomorrow's+Software+Today;Full-Stack+Developer+%7C+Sri+Lanka;Turning+Ideas+Into+Digital+Reality;Always+Learning%2C+Always+Creating" alt="Typing SVG" />
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="400" height="250" />
