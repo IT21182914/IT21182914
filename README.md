@@ -83,80 +83,80 @@ const dilan = {
 <div align="center">
 
 ### 🌈 **Frontend Universe**
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1a1a1a)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a1a)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a1a)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=1a1a1a)
+<img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=react" height="50" alt="React" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite" style="margin: 5px;" />
 
 </div>
 
 ### 🔮 **AI & Intelligence**
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div align="center">
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a1a)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)
-![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1a1a1a)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a)
+<img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="50" alt="OpenAI" style="margin: 5px;" />
+<img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" height="50" alt="GitHub Copilot" style="margin: 5px; border-radius: 10px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Claude_AI_logo.svg" height="50" alt="Claude" style="margin: 5px;" />
 
 </div>
 
 ### ⚡ **Backend Powerhouse**
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div align="center">
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=1a1a1a)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a1a)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white&labelColor=1a1a1a)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a1a)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=1a1a1a)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=1a1a1a)
+<img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="NestJS" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=prisma" height="50" alt="Prisma" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=graphql" height="50" alt="GraphQL" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=spring" height="50" alt="Spring Boot" style="margin: 5px;" />
 
 </div>
 
 ### ☁️ **DevOps & Cloud Native**
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div align="center">
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1a1a)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=1a1a1a)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1a1a)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=1a1a1a)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=1a1a1a)
+<img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=azure" height="50" alt="Azure" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="Kubernetes" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="Jenkins" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=terraform" height="50" alt="Terraform" style="margin: 5px;" />
 
 </div>
 
 ### 🗄️ **Database & Storage**
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a1a)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a)
+<img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" style="margin: 5px;" />
 
 </div>
 
 ### 🛠️ **Development Arsenal**
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1a1a1a)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=1a1a1a)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a1a1a)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a1a)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a1a)
+<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" style="margin: 5px;" />
 
 </div>
 
 ### 📱 **Mobile & Cross-Platform**
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=1a1a1a)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=1a1a1a)
+<img src="https://skillicons.dev/icons?i=flutter" height="50" alt="Flutter" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="Kotlin" style="margin: 5px;" />
 
 </div>
 
