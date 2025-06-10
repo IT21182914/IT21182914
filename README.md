@@ -41,7 +41,7 @@
 ## 🧠 **Tech Enthusiast & Innovator**
 
 ```javascript
-const dilan = {
+const DilanS = {
     role: "Full-Stack Software Engineer",
     passion: "Technology Innovation Enthusiast", 
     location: "🇱🇰 Sri Lanka",
@@ -59,7 +59,7 @@ const dilan = {
         database: ["PostgreSQL", "MongoDB", "Redis"]
     },
     mindset: "Technology + Passion = Endless Innovation",
-    funFact: "I speak fluent JavaScript and broken English 😄"
+    funFact: "I see bugs as tiny teachers 🐞👨‍🏫 & Building cool stuff makes me smile 😄🚀"
 };
 ```
 
