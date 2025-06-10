@@ -259,7 +259,7 @@ as Code
 </table>
 
 ### 🎯 **2025 DevOps Goals**
-<div align="center">
+
 ```bash
 $ kubectl get goals --namespace=2025
 NAME                    STATUS      PROGRESS
