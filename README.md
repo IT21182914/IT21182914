@@ -28,7 +28,7 @@
 ### 🌟 **NEXT-GEN TECH ENTHUSIAST** 🌟
 *Where AI meets Full-Stack Innovation*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%22Code+is+poetry+written+for+machines+to+dance+to%22;%22I+don't+always+test+my+code%2C+but+when+I+do%2C+I+do+it+in+production%22;%22There+are+only+10+types+of+people%3A+those+who+understand+binary+and+those+who+don't%22;%22DevOps%3A+You+build+it%2C+you+run+it%2C+you+fix+it+at+3AM%22;%22AI+will+not+replace+programmers%2C+but+programmers+who+use+AI+will%22" alt="Dynamic Quotes" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%22Code+is+poetry+written+for+machines+to+dance+to%22;%22I+don't+always+test+my+code%2C+but+when+I+do%2C+I+do+it+in+production%22;%22DevOps%3A+You+build+it%2C+you+run+it%2C+you+fix+it+at+3AM%22;%22AI+will+not+replace+programmers%2C+but+programmers+who+use+AI+will%22" alt="Dynamic Quotes" />
 
 </div>
 
