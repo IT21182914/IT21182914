@@ -40,36 +40,27 @@
 
 ## 🧠 **Tech Enthusiast & Innovator**
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  passions: string[];
-  currentFocus: string[];
-  techPhilosophy: string;
-}
-
-const DilanShanuka: Developer = {
-  name: "Dilan Shanuka",
-  role: "AI-Powered Full-Stack Engineer",
-  location: "🇱🇰 Colombo, Sri Lanka",
-  passions: [
-    "AI-Assisted Development",
-    "Cloud-Native Architecture", 
-    "DevOps Automation",
-    "Scalable System Design"
-  ],
-  currentFocus: [
-    "Advanced AI Integration",
-    "Microservices Architecture",
-    "Container Orchestration",
-    "Modern Frontend Patterns"
-  ],
-  techPhilosophy: "Innovation through intelligent automation",
-  mindset: "Technology + Passion = Endless Innovation",
-  funFact1: "I see bugs as tiny teachers 🐞👨‍🏫",
-  funFact2: "Building cool stuff makes me smile 😄🚀"
+```javascript
+const DilanS = {
+    role: "Full-Stack Software Engineer",
+    passion: "Technology Innovation Enthusiast", 
+    location: "🇱🇰 Sri Lanka",
+    specialties: [
+        "AI-Assisted Development",
+        "Cloud-Native Architecture", 
+        "DevOps Automation",
+        "Modern Tech Exploration"
+    ],
+    aiTools: ["ChatGPT", "GitHub Copilot"],
+    currentStack: {
+        frontend: ["Next.js", "React", "TypeScript"],
+        backend: ["NestJS", "Prisma", "Node.js"],
+        cloud: ["AWS", "Azure", "Docker", "Kubernetes"],
+        database: ["PostgreSQL", "MongoDB", "Redis"]
+    },
+    mindset: "Technology + Passion = Endless Innovation",
+    funFact1: "I see bugs as tiny teachers 🐞👨‍🏫",
+    funFact2: "Building cool stuff makes me smile 😄🚀"
 };
 ```
 
@@ -114,8 +105,7 @@ const DilanShanuka: Developer = {
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" style="margin: 5px;" />
-<img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" height="50" alt="GitHub Copilot" style="margin: 5px; border-radius: 10px;" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub Copilot" style="margin: 5px; border-radius: 10px;" />
 
 </div>
 
@@ -276,18 +266,85 @@ microservices-mastery   In-Progress  50%
 
 <div align="center">
 
-<a href="https://twitter.com/dilanshanuka1">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" height="40" alt="Twitter"/>
-</a>
-<a href="https://www.linkedin.com/in/dilan-shanuka-750552195/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="40" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/dilan_shanuka/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" height="40" alt="Instagram"/>
-</a>
-<a href="mailto:Dilanshanuka999@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="40" alt="Email"/>
-</a>
+### 🚀 **Let's Connect on Social Media**
+
+<p align="center">
+  <a href="https://twitter.com/dilanshanuka1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" height="50" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dilan-shanuka-750552195/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="50" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/dilan_shanuka/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="50" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:Dilanshanuka999@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="50" alt="Gmail" />
+  </a>
+</p>
+
+<br/>
+
+### 📱 **Modern Social Buttons**
+
+<p align="center">
+  <a href="https://twitter.com/dilanshanuka1" target="_blank">
+    <img src="https://img.shields.io/badge/-@dilanshanuka1-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" />
+  </a>
+  <a href="https://www.linkedin.com/in/dilan-shanuka-750552195/" target="_blank">
+    <img src="https://img.shields.io/badge/-Dilan%20Shanuka-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" />
+  </a>
+  <a href="https://www.instagram.com/dilan_shanuka/" target="_blank">
+    <img src="https://img.shields.io/badge/-@dilan__shanuka-e4405f?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=30" />
+  </a>
+  <a href="mailto:Dilanshanuka999@gmail.com">
+    <img src="https://img.shields.io/badge/-Email%20Me-d14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" />
+  </a>
+</p>
+
+<br/>
+
+### 🎨 **Interactive Social Icons**
+
+<p align="center">
+  <a href="https://twitter.com/dilanshanuka1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="52" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dilan-shanuka-750552195/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="52" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/dilan_shanuka/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="52" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:Dilanshanuka999@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="40" width="52" />
+  </a>
+</p>
+
+<br/>
+
+### 🌟 **Glassmorphism Style Buttons**
+
+<p align="center">
+  <a href="https://twitter.com/dilanshanuka1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000&color=1DA1F2" height="45" />
+  </a>
+  <a href="https://www.linkedin.com/in/dilan-shanuka-750552195/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0077B5" height="45" />
+  </a>
+  <a href="https://www.instagram.com/dilan_shanuka/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&color=E4405F" height="45" />
+  </a>
+  <a href="mailto:Dilanshanuka999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=D14836" height="45" />
+  </a>
+</p>
 
 <br/><br/>
 
@@ -314,15 +371,17 @@ microservices-mastery   In-Progress  50%
 
 <br/><br/>
 
-<a href="https://github.com/IT21182914">
-<img src="https://img.shields.io/badge/Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="40"/>
-</a>
-<a href="https://github.com/IT21182914?tab=repositories">
-<img src="https://img.shields.io/badge/My_Repositories-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="40"/>
-</a>
-<a href="https://github.com/IT21182914?tab=stars">
-<img src="https://img.shields.io/badge/Starred_Projects-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="40"/>
-</a>
+<p align="center">
+  <a href="https://github.com/IT21182914">
+    <img src="https://img.shields.io/badge/Follow_Me-GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="45"/>
+  </a>
+  <a href="https://github.com/IT21182914?tab=repositories">
+    <img src="https://img.shields.io/badge/My_Repositories-Explore-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="45"/>
+  </a>
+  <a href="https://github.com/IT21182914?tab=stars">
+    <img src="https://img.shields.io/badge/Starred_Projects-View-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="45"/>
+  </a>
+</p>
 
 <br/><br/>
 
