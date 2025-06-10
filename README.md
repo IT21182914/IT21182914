@@ -3,7 +3,7 @@
 # 🚀 **Dilan Shanuka** 
 ### `AI-Powered Full-Stack Developer` • `DevOps Enthusiast` • `Cloud Native Developer` • `Tech Enthusiast`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1500&pause=300&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=🤖+AI-Enhanced+Tech+Enthusiast;⚡+Next.js+%7C+NestJS+%7C+Prisma+Expert;☁️+Cloud+Native+%26+DevOps+Wizard;🚀+Building+Tomorrow's+Tech+Today💡;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1500&pause=300&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=🤖+AI-Enhanced+Tech+Enthusiast;⚡+Next.js+%7C+NestJS+%7C+Prisma+Expert;☁️+Cloud+Native+%26+DevOps+Wizard;🚀+Building+Tomorrow's+Tech+Today;💡+Where+Code+Meets+Innovation" alt="Typing SVG" />
 
 <br/>
 
@@ -15,6 +15,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=&fontSize=16" width="100%"/>
 </div>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=IT21182914&label=Profile%20Views&color=brightgreen&style=for-the-badge&labelColor=000000" alt="Profile views" />
+</div>
+
 </div>
 
 ---
@@ -24,7 +28,7 @@
 ### 🌟 **NEXT-GEN TECH ENTHUSIAST** 🌟
 *Where AI meets Full-Stack Innovation*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%22Code+is+poetry+written+for+machines+to+dance+to%22;%22I+don't+always+test+my+code%2C+but+when+I+do%2C+I+do+it+in+production%22;%22DevOps%3A+You+build+it%2C+you+run+it%2C+you+fix+it+at+3AM%22;%22AI+will+not+replace+programmers%2C+but+programmers+who+use+AI+will%22" alt="Dynamic Quotes" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%22Code+is+poetry+written+for+machines+to+dance+to%22;%22I+don't+always+test+my+code%2C+but+when+I+do%2C+I+do+it+in+production%22;%22There+are+only+10+types+of+people%3A+those+who+understand+binary+and+those+who+don't%22;%22DevOps%3A+You+build+it%2C+you+run+it%2C+you+fix+it+at+3AM%22;%22AI+will+not+replace+programmers%2C+but+programmers+who+use+AI+will%22" alt="Dynamic Quotes" />
 
 </div>
 
@@ -37,7 +41,7 @@
 ## 🧠 **Tech Enthusiast & Innovator**
 
 ```javascript
-const DilanS = {
+const dilan = {
     role: "Full-Stack Software Engineer",
     passion: "Technology Innovation Enthusiast", 
     location: "🇱🇰 Sri Lanka",
@@ -47,15 +51,15 @@ const DilanS = {
         "DevOps Automation",
         "Modern Tech Exploration"
     ],
-    aiTools: ["ChatGPT", "GitHub Copilot"],
+    aiTools: ["ChatGPT", "GitHub Copilot", "Claude"],
     currentStack: {
         frontend: ["Next.js", "React", "TypeScript"],
         backend: ["NestJS", "Prisma", "Node.js"],
         cloud: ["AWS", "Azure", "Docker", "Kubernetes"],
-        database: ["PostgreSQL", "MongoDB", "MySQL" ,"Redis"]
+        database: ["PostgreSQL", "MongoDB", "Redis"]
     },
     mindset: "Technology + Passion = Endless Innovation",
-    funFact: "I see bugs as tiny teachers 🐞👨‍🏫"
+    funFact: "I speak fluent JavaScript and broken English 😄"
 };
 ```
 
@@ -299,7 +303,7 @@ microservices-expert   In-Progress  70%
 
 ### 🚀 Ready to revolutionize software development together?
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/IT21182914">
 <img src="https://img.shields.io/badge/Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="40"/>
@@ -310,10 +314,6 @@ microservices-expert   In-Progress  70%
 <a href="https://github.com/IT21182914?tab=stars">
 <img src="https://img.shields.io/badge/Starred_Projects-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="40"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=IT21182914&label=Profile%20Views&color=brightgreen&style=for-the-badge&labelColor=000000" alt="Profile views" />
 
 <br/><br/>
 
