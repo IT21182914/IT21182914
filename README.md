@@ -118,6 +118,7 @@ const DilanS = {
 <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js" style="margin: 5px;" />
 <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="GraphQL" style="margin: 5px;" />
 <img src="https://skillicons.dev/icons?i=spring" height="50" alt="Spring Boot" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" style="margin: 5px;" />
 
 </div>
 
@@ -160,7 +161,6 @@ const DilanS = {
 
 <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="Flutter" style="margin: 5px;" />
 <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" style="margin: 5px;" />
-<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" style="margin: 5px;" />
 <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="Kotlin" style="margin: 5px;" />
 
 </div>
@@ -252,10 +252,10 @@ as Code
 ```bash
 $ kubectl get goals --namespace=2025
 NAME                    STATUS      PROGRESS
-aws-certification      In-Progress  60%
+aws-certification      In-Progress  40%
 kubernetes-mastery     Planned      30%
 ai-devops-integration  Active       85%
-microservices-expert   In-Progress  70%
+microservices-mastery   In-Progress  50%
 ```
 
 </div>
