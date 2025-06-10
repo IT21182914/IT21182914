@@ -59,8 +59,8 @@ const DilanS = {
         database: ["PostgreSQL", "MongoDB", "Redis"]
     },
     mindset: "Technology + Passion = Endless Innovation",
-    funFact 1: "I see bugs as tiny teachers 🐞👨‍🏫 &",
-    funcFact 2: "Building cool stuff makes me smile 😄🚀"
+    funFact 1: "I see bugs as tiny teachers 🐞👨‍🏫",
+    funFact 2: "Building cool stuff makes me smile 😄🚀"
 };
 ```
 
