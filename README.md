@@ -40,27 +40,36 @@
 
 ## 🧠 **Tech Enthusiast & Innovator**
 
-```javascript
-const DilanS = {
-    role: "Full-Stack Software Engineer",
-    passion: "Technology Innovation Enthusiast", 
-    location: "🇱🇰 Sri Lanka",
-    specialties: [
-        "AI-Assisted Development",
-        "Cloud-Native Architecture", 
-        "DevOps Automation",
-        "Modern Tech Exploration"
-    ],
-    aiTools: ["ChatGPT", "GitHub Copilot"],
-    currentStack: {
-        frontend: ["Next.js", "React", "TypeScript"],
-        backend: ["NestJS", "Prisma", "Node.js"],
-        cloud: ["AWS", "Azure", "Docker", "Kubernetes"],
-        database: ["PostgreSQL", "MongoDB", "Redis"]
-    },
-    mindset: "Technology + Passion = Endless Innovation",
-    funFact 1: "I see bugs as tiny teachers 🐞👨‍🏫",
-    funFact 2: "Building cool stuff makes me smile 😄🚀"
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  passions: string[];
+  currentFocus: string[];
+  techPhilosophy: string;
+}
+
+const DilanShanuka: Developer = {
+  name: "Dilan Shanuka",
+  role: "AI-Powered Full-Stack Engineer",
+  location: "🇱🇰 Colombo, Sri Lanka",
+  passions: [
+    "AI-Assisted Development",
+    "Cloud-Native Architecture", 
+    "DevOps Automation",
+    "Scalable System Design"
+  ],
+  currentFocus: [
+    "Advanced AI Integration",
+    "Microservices Architecture",
+    "Container Orchestration",
+    "Modern Frontend Patterns"
+  ],
+  techPhilosophy: "Innovation through intelligent automation",
+  mindset: "Technology + Passion = Endless Innovation",
+  funFact1: "I see bugs as tiny teachers 🐞👨‍🏫",
+  funFact2: "Building cool stuff makes me smile 😄🚀"
 };
 ```
 
