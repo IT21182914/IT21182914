@@ -65,7 +65,7 @@ const DilanShanuka: Developer = {
     "Modern Frontend Patterns"
   ],
   techPhilosophy: "Innovation through intelligent automation",
-  funFact: "I see bugs as tiny teachers 🐞👨‍🏫 & Building cool stuff makes me smile 😄🚀"
+  funFact: "I see bugs as tiny teachers 🐞👨‍🏫\n           Building cool stuff makes me smile 😄🚀"
 };
 ```
 
