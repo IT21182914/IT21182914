@@ -3,7 +3,9 @@
 # 🚀 **Dilan Shanuka** 
 ### `AI-Powered Full-Stack Developer` • `DevOps Enthusiast` • `Cloud Native Developer` • `Tech Enthusiast`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1500&pause=300&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🤖+AI-Enhanced+Tech+Enthusiast;⚡+Next.js+%7C+NestJS+%7C+Prisma+Expert;☁️+Cloud+Native+%26+DevOps+Wizard;🚀+Building+Tomorrow's+Tech+Today;💡+Where+Code+Meets+Innovation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1500&pause=300&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=🤖+AI-Enhanced+Tech+Enthusiast;⚡+Next.js+%7C+NestJS+%7C+Prisma+Expert;☁️+Cloud+Native+%26+DevOps+Wizard;🚀+Building+Tomorrow's+Tech+Today;💡+Where+Code+Meets+Innovation" alt="Typing SVG" />
+
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="250" style="border-radius: 20px; box-shadow: 0 20px 40px rgba(0, 245, 255, 0.3);" />
@@ -159,40 +161,6 @@ const dilan = {
 <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="Kotlin" style="margin: 5px;" />
 
 </div>
-
-</div>
-
----
-
-## 🎯 **AI-POWERED DEVOPS WORKFLOW**
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[💡 AI Ideation] --> B[🏗️ Architecture Design]
-    B --> C[⚡ Next.js Development]
-    C --> D[🔧 NestJS Backend]
-    D --> E[🗄️ Prisma Database]
-    E --> F[🐳 Docker Containerization]
-    F --> G[☁️ Cloud Deployment]
-    G --> H[⚙️ Kubernetes Orchestration]
-    H --> I[🚀 CI/CD Pipeline]
-    I --> J[📊 Monitoring & Alerts]
-    J --> K[🔄 Continuous Optimization]
-    
-    style A fill:#ff6b6b,stroke:#ffffff,stroke-width:3px,color:#ffffff
-    style B fill:#4ecdc4,stroke:#ffffff,stroke-width:3px,color:#ffffff
-    style C fill:#45b7d1,stroke:#ffffff,stroke-width:3px,color:#ffffff
-    style D fill:#f9ca24,stroke:#ffffff,stroke-width:3px,color:#000000
-    style E fill:#6c5ce7,stroke:#ffffff,stroke-width:3px,color:#ffffff
-    style F fill:#a29bfe,stroke:#ffffff,stroke-width:3px,color:#ffffff
-    style G fill:#fd79a8,stroke:#ffffff,stroke-width:3px,color:#ffffff
-    style H fill:#00b894,stroke:#ffffff,stroke-width:3px,color:#ffffff
-    style I fill:#e17055,stroke:#ffffff,stroke-width:3px,color:#ffffff
-    style J fill:#0984e3,stroke:#ffffff,stroke-width:3px,color:#ffffff
-    style K fill:#2d3436,stroke:#ffffff,stroke-width:3px,color:#ffffff
-```
 
 </div>
 
